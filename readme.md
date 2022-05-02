@@ -7,3 +7,8 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 ## Development
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
+
+## FAQ
+
+### Q: I'm getting 422 when trying to create a new user.
+### A: Check for any password or username constraints violations.
